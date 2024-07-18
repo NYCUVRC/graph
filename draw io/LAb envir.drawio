@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T11:09:35.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AUkTa8wO8QuJ2E57zKUq" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T11:19:31.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CbL4ohneJWfCGcPwS65v" version="24.7.1" type="github">
   <diagram name="第 1 页" id="2c5QgfEnJm0GjkWhbm3x">
-    <mxGraphModel dx="913" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="ozieRJUm6opqBPetdMHd-12" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ozieRJUm6opqBPetdMHd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ozieRJUm6opqBPetdMHd-10" target="ozieRJUm6opqBPetdMHd-12">
+        <mxCell id="ozieRJUm6opqBPetdMHd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;jumpStyle=none;" edge="1" parent="1" source="ozieRJUm6opqBPetdMHd-10" target="ozieRJUm6opqBPetdMHd-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="200" />
@@ -162,6 +162,29 @@
           <mxGeometry x="0.0361" y="1" relative="1" as="geometry">
             <mxPoint x="19" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ozieRJUm6opqBPetdMHd-56" value="" style="endArrow=baseDash;startArrow=baseDash;html=1;rounded=0;startFill=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="140" as="sourcePoint" />
+            <mxPoint x="160" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozieRJUm6opqBPetdMHd-57" value="50 cm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozieRJUm6opqBPetdMHd-56">
+          <mxGeometry x="0.0361" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozieRJUm6opqBPetdMHd-58" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=oval;startFill=1;" edge="1" parent="1" source="ozieRJUm6opqBPetdMHd-35">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozieRJUm6opqBPetdMHd-60" value="scope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ozieRJUm6opqBPetdMHd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ozieRJUm6opqBPetdMHd-60" target="ozieRJUm6opqBPetdMHd-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
